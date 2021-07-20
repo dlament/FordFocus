@@ -4,6 +4,7 @@
  *
  * Created on 1 stycznia 2018, 22:41
  */
+// GITHUB edit
 
 #include <stdio.h>
 #include <stdlib.h>
