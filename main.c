@@ -1,6 +1,6 @@
 /* 
  * File:   main.c
- * Author: damian
+ * Author: damian lament
  *
  * Created on 1 stycznia 2018, 22:41
  */
